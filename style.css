@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+html, body {
+  overflow-x: hidden;
+}
+
+ 
+ #asterisk{
+    
+    height: 3rem;
+}
+.size-6{
+  font-size: 1rem;
+}
+
+#greenline{
+            /* z-index:1;/ */
+            /* background-color:green; */
+            /* transform: rotate(-9deg); */
+           /* position: absolute; */
+             /* margin-bottom: 10rem; */
+                /* top: 50px; */
+             /* bottom: 200px; */
+
+
+}
